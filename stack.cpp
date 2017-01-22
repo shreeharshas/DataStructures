@@ -1,3 +1,5 @@
+//stack implementation using array
+
 #include <iostream>
 #define TRUE 0
 #define FALSE -1
